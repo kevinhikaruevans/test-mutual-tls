@@ -37,4 +37,5 @@ The passphrases used in this example is `password`.
 ## Sample `curl` request
 
 ```bash
-curl https://localhost:5000/ --cacert myCA.pem --cert client.crt --key client.key```
+curl https://localhost:5000/ --cacert myCA.pem --cert client.crt --key client.key
+```
